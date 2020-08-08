@@ -1,0 +1,4 @@
+*.docx
+01_TRACKS/*
+plot_map.py
+__pycache__/
